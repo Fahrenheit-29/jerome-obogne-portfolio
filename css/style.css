@@ -16,6 +16,7 @@
 
 html {
     scroll-behavior: smooth;
+    scroll-padding-top: var(--scroll-padding, 100px);
 }
 
 body {
@@ -121,10 +122,6 @@ body {
 
 
 /* about photo */
-
-.about-bounderies {
-    margin-bottom: 100px;
-}
 
 .about-photo img {
     border-radius: 5px;
@@ -390,9 +387,6 @@ body {
         padding: 8px 15px;
     }
     /* about photo */
-    .about-bounderies {
-        margin-bottom: 100px;
-    }
     .about-photo img {
         border-radius: 5px;
     }
