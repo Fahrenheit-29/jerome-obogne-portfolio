@@ -16,7 +16,7 @@
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: var(--scroll-padding, 100px);
+    scroll-padding-top: var(--scroll-padding, 120px);
 }
 
 body {
